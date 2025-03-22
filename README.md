@@ -1,0 +1,1 @@
+# netcore-sample-cqrs-mediatr-pattern
