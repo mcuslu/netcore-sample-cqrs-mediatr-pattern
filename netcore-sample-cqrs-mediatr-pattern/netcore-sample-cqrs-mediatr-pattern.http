@@ -1,0 +1,6 @@
+@netcore_sample_cqrs_mediatr_pattern_HostAddress = http://localhost:5001
+
+GET {{netcore_sample_cqrs_mediatr_pattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
